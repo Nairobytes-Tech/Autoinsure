@@ -1,0 +1,6 @@
+-r base.txt
+
+# Production
+sentry-sdk[django]==2.19.2
+django-anymail[amazon_ses]==11.1
+dj-database-url==2.3.0
